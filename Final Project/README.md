@@ -10,7 +10,7 @@ The project involves building a custom image dataset and implementing an object 
   * `yolo11n.pt`: Pretrained YOLOv11 model weights
 * `/runs`: Model evaluation results
 * `best.pt`: The pretrained model provided by instructor
-* `notebook.ipynb`: Jupyter Notebook that shows running outcome
+* `notebook.ipynb`: Jupyter Notebook that shows evaluating code and running outcome
 * `README.md`: [myself]()
 * `report.pdf`: PDF version of the final report
 * `train_10class.py`: Load and train the mode
