@@ -1,6 +1,5 @@
-# DTS 101 Spring 2025
-This is a archive of DTS101 I took at Xi'an Jiaotong-Liverpool University.
+## Custom Object Detection with YOLO
+> 
 
-Includes:
-* Five individual assignments for learning
-* A final project
+> End-to-end object detection pipeline: from web-crawled data collection and annotation to YOLO model training, hyperparameter tuning under GPU constraints, and quantitative evaluation (mAP@0.5 = 0.34).
+>
