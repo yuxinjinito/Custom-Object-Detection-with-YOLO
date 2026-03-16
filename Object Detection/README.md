@@ -1,4 +1,4 @@
-# Final Project
+# Object Detection with YOLO
 
 The project involves building a custom image dataset and implementing an object detection neural network.
 
